@@ -2,35 +2,33 @@
 //Kevins Playlist
 const songsKw = [
   {
+    name: "Sick Boi",
+    artist: "Ren",
+    file: "https://dl.dropboxusercontent.com/scl/fi/2htz1fvog9mvy9bwlh7vz/Ren-Sick-Boi-Official-Music-Video.mp3?rlkey=7jglwbol7ianjaaedtr92e9bo&st=bd5tktln&dl=0",
+    play: "true",
+  },
+  {
     name: "Power",
     artist: "Ren",
     file: "https://dl.dropboxusercontent.com/scl/fi/v2fh2i3jyal7yh8m3w2fp/Ren-Power-Official-Music-Video.mp3?rlkey=y1s4x1o556vhm7yow6gzv5t9a&st=wtkwzsxk&dl=0",
     play: "true",
-
   },
   {
     name: "Murderer",
     artist: "Ren",
     file: "https://dl.dropboxusercontent.com/scl/fi/kzrlpu4awms4np9id26df/Ren-Murderer-Official-Music-Video.mp3?rlkey=6l0uq6hnc6fyhsh14g3onqmen&st=bxkh6kos&dl=0",
     play: "true",
-
   },
   {
     name: "Suicide",
     artist: "Ren",
-    file: "https://www.dropbox.com/scl/fi/s3rhe0gyhkpf3o6zyzuoj/Su-cIde-Official-Music-Video.mp3?rlkey=fjmbnlwlqd39b29cbzm44es02&st=0g33vzst&dl=0",
+    file: "https://dl.dropboxusercontent.com/scl/fi/s3rhe0gyhkpf3o6zyzuoj/Su-cIde-Official-Music-Video.mp3?rlkey=fjmbnlwlqd39b29cbzm44es02&st=0g33vzst&dl=0",
     play: "true",
   },
   {
     name: "Kujo Beat Down",
     artist: "Ren",
     file: "https://dl.dropboxusercontent.com/scl/fi/v2tbrf52qkqc9ff2blr46/Ren-KUJO-BEAT-DOWN.mp3?rlkey=wquzgn2pqml3918gxm1fhxcjl&st=9z6et0w3&dl=0",
-    play: "true",
-  },
-  {
-    name: "Always on my Mind",
-    artist: "Leire",
-    file: "https://dl.dropboxusercontent.com/scl/fi/1pe4el6v88tk19sm2t8u9/Youre-Always-On-My-Mind-Willie-Nelson-Cover.mp3?rlkey=a2lbuldbwouur9uavvimqzs3r&st=tdjarokv&dl=0",
     play: "true",
   },
   {
